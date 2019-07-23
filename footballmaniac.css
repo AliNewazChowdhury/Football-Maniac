@@ -1,0 +1,184 @@
+body{    
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.tb1{
+	background-color: #808000;
+}
+.tb1 th{
+    border-radius: 15px;
+    background-color: #808000;
+}
+.tb1 td{
+
+    width: 100%;
+    border-radius: 15px;
+}
+
+.tb1 tr{
+    border-radius: 15px;
+    background-color: white;
+}
+header{
+	background-color: #cc99cc;
+	color: white;	
+}
+nav{
+	background-color: black;
+ 	width: 15%;
+	float: left;
+	clear: right;
+	text-align: center;
+}
+article{
+	float: left;
+	clear: right;
+	width: 65%;
+	text-align: center;
+	background-color: white;
+}
+#results{
+	background-color: white;
+	width: 20%;
+	color: black;
+    text-align: center;
+    border: dashed;
+    padding: 5px;
+    float: left;
+}
+#BreakingNews {
+	border: 1px solid black;
+	width: 100%;
+	text-align: center;
+	background-color: white;
+}
+table#BreakingNews td{
+	border: 1px solid black;
+	width: 100%;
+	background-color: white;
+    
+}
+table#BreakingNews tr{
+	background-color: white;
+}
+#r1 {
+	float: left;
+	clear: right;
+	border: 1px solid black;
+	text-align: center;
+	height: 200px;
+	width: 80%;
+}
+#r1 td{
+	border: 1px solid black;
+	width: 100%;
+	height: 200px;
+	background-color: white;
+}
+#image{
+	height: 200px;
+	width: 50%;
+	float: left;
+}
+div{
+	margin:10px 150px 10px 150px;
+
+	align-content: center;
+}
+a{
+	color: white;
+}
+a:link{
+    width: 100%;
+	display: block;
+	width: 120px;
+	text-align: center;
+	text-decoration: none;
+	padding: 10px;
+	font: bolder;
+	color: white;
+}
+a:hover{
+
+	background-color:  #ffcccc;
+	color: blue;
+}
+#a1: hover{
+	background-color:  unset;
+}
+
+ul#ul_class2{
+	list-style-type: none;
+	margin: 0px;
+	padding: 10px;
+
+}
+ul#ul_class {
+	list-style-type: none;
+	overflow: hidden;
+    padding-left: 150px;
+    margin: 0px;
+	background-color: #330019;
+	text-align: center;
+	list-style-type: none;
+	color: white;
+}
+ul#ul_class li{
+	float: left;
+}
+footer{
+	text-align: center;
+	float: left;
+	height: 50px;
+	width: 100%;
+	background-color: black;
+	color: white;
+}
+#a1 {
+	width: 97%;
+	height: 200px;
+	color: black;
+
+}
+article{
+	background-color: white;
+}
+#article{
+	background-color: unset;
+}
+#rumours{
+	float: left;
+	clear: right;
+	width: 100%;
+
+}
+#tNegotiation{
+
+}
+#r2{
+	width: 25%;
+}
+#t1 {
+	float: left;
+	clear: right;
+    font-family: arial;
+    color: black;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#t1 td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+#t1 tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+#a2{
+	color: blue;
+}
